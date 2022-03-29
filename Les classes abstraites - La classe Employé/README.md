@@ -1,0 +1,1 @@
+https://www.exelib.net/csharp-poo/les-classes-abstraites-la-classe-employe.html

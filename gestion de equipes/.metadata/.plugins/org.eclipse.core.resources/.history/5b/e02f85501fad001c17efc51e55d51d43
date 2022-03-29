@@ -1,0 +1,10 @@
+package gestionEquipesEffTDI;
+
+import java.util.Date;
+
+public class Main {
+	public static void main(String[] args) {
+		Informaticien oussama = new Informaticien("f1234","ayadi","oussama","java",1.2,new Date());
+	System.out.println(oussama);
+	}
+}

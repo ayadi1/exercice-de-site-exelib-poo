@@ -1,0 +1,33 @@
+package gestionEquipesEffTDI;
+
+import java.util.Date;
+
+public class Informaticien {
+	private String CIN;
+	private String Nom_i;
+	private String Prenom_i;
+	private String profile;
+	private double grade;
+	private Date date_Embauche;
+
+	// ##################### constructor #####################
+	// #######################################################
+
+	public Informaticien(String nom_i, String prenom_i, String profile, double grade, Date date_Embauche) {
+		super();
+		Nom_i = nom_i;
+		Prenom_i = prenom_i;
+		this.profile = profile;
+		this.grade = grade;
+		this.date_Embauche = date_Embauche;
+	}
+
+	public Informaticien() {
+
+	}
+
+	// #######################################################
+	// #######################################################
+	
+	
+}

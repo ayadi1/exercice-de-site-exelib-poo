@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/ayadi/Documents/myWork/poo/gestion de equipes/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+804228173.index

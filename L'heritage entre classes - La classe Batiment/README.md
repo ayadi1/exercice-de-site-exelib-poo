@@ -1,0 +1,1 @@
+https://www.exelib.net/csharp-poo/l-heritage-entre-classes-la-classe-batiment.html

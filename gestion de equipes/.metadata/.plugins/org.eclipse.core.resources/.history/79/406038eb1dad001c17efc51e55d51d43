@@ -1,0 +1,9 @@
+package gestionEquipesEffTDI;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class ListeInformaticiens {
+	List<Informaticien> listeInfo = new ArrayList<Informaticien>();
+}

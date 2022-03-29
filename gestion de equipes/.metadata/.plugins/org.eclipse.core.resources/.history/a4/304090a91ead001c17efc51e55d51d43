@@ -1,0 +1,19 @@
+package gestionEquipesEffTDI;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListeInformaticiens {
+	List<Informaticien> listeInfo = new ArrayList<Informaticien>();
+
+	// ########################### methods ###################
+	// #######################################################
+
+	public void ajouter_inf(Informaticien info) {
+		if (info instanceof Informaticien) {
+			this.listeInfo.add(info);
+		} else {
+			System.out.println("c'est ne pas une informaticien");
+		}
+	}
+}

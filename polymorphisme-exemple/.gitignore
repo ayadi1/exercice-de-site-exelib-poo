@@ -1,0 +1,16 @@
+out
+server
+node_modules
+*.vsix
+.DS_Store
+.vscode-test
+undefined
+target
+dist
+jre
+bin/
+.settings
+.classpath
+.project
+test/resources/projects/**/.vscode
+test/resources/projects/maven/salut/testGradle
